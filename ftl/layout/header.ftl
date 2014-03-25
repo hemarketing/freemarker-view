@@ -1,1 +1,1 @@
-<div><h1>this is the header</h1></div>
+<div><h1>Header for Harvard Business Publishing</h1></div>
